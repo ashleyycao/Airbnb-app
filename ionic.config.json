@@ -1,0 +1,7 @@
+{
+  "name": "beachbnb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
