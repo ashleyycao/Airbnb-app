@@ -1,5 +1,5 @@
 # Airbnb App
-I developed an app with Airbnb-like features using Node.js for the backend, Ionic for cross-platform mobile app development, and Angular for the front-end. The app provides a seamless experience for users to browse, book, and manage accommodations
+I developed an app with Airbnb-like features using Node.js for the backend, Ionic for cross-platform mobile app development, and Angular for the front-end. The app provides a seamless experience for users to browse, book, and manage accommodations. Web stack: HTML/CSS, JavaScript, TypeScript
 
 ### Home Screen
 <img width="383" alt="Screenshot 2024-07-26 at 10 08 09 PM" src="https://github.com/user-attachments/assets/b29d1d23-ec66-4a4f-9465-66c785b0a1b4">
